@@ -1,0 +1,15 @@
+.extension-list-label {
+  max-width: 14em;
+}
+
+.extension-list-label:error {
+  color: #c01c28;
+}
+
+.extension-list-label:outdate {
+  color: #cd9309;
+}
+
+.extension-list-setting:hover {
+  color: #4b92e7;
+}

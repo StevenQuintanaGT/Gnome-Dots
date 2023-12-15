@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.TextEditor.desktop" score="45" last-seen="1702581371"/>
+    <application id="org.gnome.Cheese.desktop" score="0" last-seen="1702539578"/>
+    <application id="md.obsidian.Obsidian.desktop" score="846" last-seen="1702528666"/>
+    <application id="org.gnome.Tour.desktop" score="1" last-seen="1702172482"/>
+    <application id="xdg-desktop-portal-gnome.desktop" score="0" last-seen="1702525807"/>
+    <application id="org.gnome.Maps.desktop" score="1" last-seen="1702172682"/>
+    <application id="firefox.desktop" score="5670" last-seen="1702676658"/>
+    <application id="org.gnome.tweaks.desktop" score="136" last-seen="1702510272"/>
+    <application id="com.mattjakeman.ExtensionManager.desktop" score="166" last-seen="1702675843"/>
+    <application id="brave-browser.desktop" score="17" last-seen="1702581016"/>
+    <application id="libreoffice-startcenter.desktop" score="0" last-seen="1702598215"/>
+    <application id="vlc.desktop" score="46" last-seen="1702528896"/>
+    <application id="discord.desktop" score="51" last-seen="1702675421"/>
+    <application id="org.gnome.Tecla.desktop" score="0" last-seen="1702191397"/>
+    <application id="org.gnome.Terminal.Preferences.desktop" score="14" last-seen="1702580691"/>
+    <application id="code.desktop" score="330" last-seen="1702676482"/>
+    <application id="org.gnome.Contacts.desktop" score="0" last-seen="1702449074"/>
+    <application id="org.gnome.Rhythmbox3.desktop" score="0" last-seen="1702539558"/>
+    <application id="com.spotify.Client.desktop" score="260" last-seen="1702676080"/>
+    <application id="audacity.desktop" score="3" last-seen="1702516704"/>
+    <application id="org.gnome.font-viewer.desktop" score="11" last-seen="1702284893"/>
+    <application id="org.gnome.Settings.desktop" score="147" last-seen="1702596369"/>
+    <application id="org.freedesktop.GnomeAbrt.desktop" score="1" last-seen="1702284398"/>
+    <application id="org.gnome.Calculator.desktop" score="1" last-seen="1702172663"/>
+    <application id="org.kde.kdenlive.desktop" score="12" last-seen="1702449788"/>
+    <application id="org.gnome.Calendar.desktop" score="1" last-seen="1702528634"/>
+    <application id="org.gnome.Shell.Extensions.desktop" score="203" last-seen="1702527410"/>
+    <application id="org.gnome.Terminal.desktop" score="5058" last-seen="1702676658"/>
+    <application id="org.gnome.Boxes.desktop" score="493" last-seen="1702538720"/>
+    <application id="io.github.realmazharhussain.GdmSettings.desktop" score="7" last-seen="1702281721"/>
+    <application id="org.gnome.DiskUtility.desktop" score="0" last-seen="1702365977"/>
+    <application id="org.gnome.Nautilus.desktop" score="737" last-seen="1702676081"/>
+    <application id="gnome-system-monitor.desktop" score="26" last-seen="1702539640"/>
+    <application id="org.fedoraproject.MediaWriter.desktop" score="0" last-seen="1702365953"/>
+    <application id="com.jetbrains.IntelliJ-IDEA-Ultimate.desktop" score="10" last-seen="1702285472"/>
+    <application id="org.gnome.Evince.desktop" score="5" last-seen="1702596933"/>
+    <application id="org.gnome.Totem.desktop" score="43" last-seen="1702527385"/>
+    <application id="org.telegram.desktop.desktop" score="54" last-seen="1702598276"/>
+    <application id="libreoffice-calc.desktop" score="10" last-seen="1702598276"/>
+    <application id="librewolf.desktop" score="2" last-seen="1702518406"/>
+    <application id="dbeaver-ce.desktop" score="16" last-seen="1702286151"/>
+    <application id="com.obsproject.Studio.desktop" score="51" last-seen="1702528931"/>
+    <application id="org.gnome.baobab.desktop" score="0" last-seen="1702365968"/>
+    <application id="google-chrome.desktop" score="4" last-seen="1702516599"/>
+    <application id="org.gnome.Loupe.desktop" score="0" last-seen="1702675479"/>
+    <application id="org.gnome.clocks.desktop" score="0" last-seen="1702539781"/>
+  </context>
+</application-state>

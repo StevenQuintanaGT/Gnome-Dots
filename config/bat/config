@@ -1,0 +1,10 @@
+# Set the theme to "TwoDark"
+--theme="Catppuccin-macchiato"
+# Show line numbers, Git modifications and file header (but no grid)
+--style="numbers,changes,header,grid,snip"
+
+# Use italic text on the terminal (not supported on all terminals)
+--italic-text=always
+
+# Use C++ syntax for Arduino .ino files
+--map-syntax "*.ino:C++"
